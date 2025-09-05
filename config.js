@@ -5,7 +5,7 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "PROVIDE YOUR SESSION ID",
+SESSION_ID: process.env.SESSION_ID || "XTREME~XMD~n5BV0I4B#4Bu2R1tJkdc0sD7E8Uobm25V5tQoNKeX5TTqFaCp4Ro",
 // add your Session Id 
 AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
 // make true or false status auto seen
@@ -38,9 +38,9 @@ PREFIX: process.env.PREFIX || ".",
     // Timezone for the auto-bio feature
     TIME_ZONE: process.env.TIME_ZONE || "Asia/Kolkata",  // Change to your preferred timezone
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "𝐗𝐓𝐑𝐄𝐌𝐄 𝐗𝐌𝐃",
+BOT_NAME: process.env.BOT_NAME || "Frantzcy",
 // add bot namw here for menu
-STICKER_NAME: process.env.STICKER_NAME || "•᭄͢❈🏴‍☠️𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐗-𝐓𝐑𝐄𝐌𝐄🇦🇱᪣᭄",
+STICKER_NAME: process.env.STICKER_NAME || "jash",
 // type sticker pack name 
 CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
 // make this true for custum emoji react    
@@ -48,7 +48,7 @@ CUSTOM_REACT_EMOJIS: process.env.CUSTOM_REACT_EMOJIS || "💝,💖,💗,❤️�
 // chose custom react emojis by yourself 
 DELETE_LINKS: process.env.DELETE_LINKS || "true",
 // automatic delete links witho remove member 
-OWNER_NUMBER: process.env.OWNER_NUMBER || "528145550855",
+OWNER_NUMBER: process.env.OWNER_NUMBER || "+50948133919",
 // add your bot owner number
 OWNER_NAME: process.env.OWNER_NAME || "ᴘʀɪɴᴄᴇ",
 // add bot owner name
